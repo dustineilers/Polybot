@@ -1,9 +1,13 @@
 import os
-import discord
+from dotenv import load_dotenv
 
+import discord
 from discord.ext import commands
 
-TOKEN = "MTE0NDY0MTY5NDI4NTk3MTU2Ng.GPkGqc.2e-X6rdTBKjZzqhv8m8dRKnn2_gvXI52Kd8EoA"
+from translate import translate_message
+
+load_dotenv()
+TOKEN = os.getenv('DISCORD_TOKEN')
 
 intents = discord.Intents.default()
 intents.members = True

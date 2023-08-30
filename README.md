@@ -1,1 +1,1 @@
-"# Polybot" 
+Polybot, the polygot Discord bot

@@ -1,3 +1,4 @@
+# Module used to translate messages into the target langguage(s)
 import os
 from dotenv import load_dotenv
 

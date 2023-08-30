@@ -1,3 +1,4 @@
+# Module used to activate Polybot and containing its commands
 import os
 from dotenv import load_dotenv
 

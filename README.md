@@ -1,4 +1,6 @@
 ## Polybot, the polygot Discord bot
+Polybot is a Discord bot that allows for multiple users to effectively communicate despite not sharing a common language. 
+
  # The Story
  In May of 2023, I graduated from Arizona State University. Days later I was on a flight. Two days later, another flight. And another flight. Until finally, I touched down in Dubrovnik, Croatia. For the next 67 days, I backpacked across Europe, visiting a total of twelve countries. 
 

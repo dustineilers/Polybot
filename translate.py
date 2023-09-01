@@ -1,4 +1,4 @@
-# Module used to translate messages into the target langguage(s)
+# Module used to translate messages into the target language(s)
 import os
 from dotenv import load_dotenv
 

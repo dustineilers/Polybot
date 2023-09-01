@@ -1,3 +1,5 @@
+import setup from setuptools
+
 setup(
     name='polybot',
     version='1.0',
